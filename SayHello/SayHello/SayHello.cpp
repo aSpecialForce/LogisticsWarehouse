@@ -7,7 +7,7 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	printf("Hello World");
+	printf("Hello C++ World!");
 
 	printf("\n");
 	system("pause");
