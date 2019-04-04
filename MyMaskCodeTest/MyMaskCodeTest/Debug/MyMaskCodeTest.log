@@ -1,0 +1,24 @@
+﻿Build started 2019-04-04 15:54:05.
+     1>Project "E:\GitTest\HelloWorld\MyMaskCodeTest\MyMaskCodeTest\MyMaskCodeTest.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MyMaskCodeTest.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\MyMaskCodeTest.unsuccessfulbuild".
+         Touching "Debug\MyMaskCodeTest.lastbuildstate".
+     1>Done Building Project "E:\GitTest\HelloWorld\MyMaskCodeTest\MyMaskCodeTest\MyMaskCodeTest.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.04
