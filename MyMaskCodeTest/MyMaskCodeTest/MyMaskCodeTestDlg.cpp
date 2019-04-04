@@ -33,6 +33,7 @@ protected:
 
 CAboutDlg::CAboutDlg() : CDialogEx(CAboutDlg::IDD)
 {
+
 }
 
 void CAboutDlg::DoDataExchange(CDataExchange* pDX)
@@ -121,10 +122,8 @@ BOOL CMyMaskCodeTestDlg::OnInitDialog()
 	SetIcon(m_hIcon, TRUE);			// Set big icon
 	SetIcon(m_hIcon, FALSE);		// Set small icon
 
+	SetWindowText(L"ÑÚÂë¼ÆËãÆ÷");
 	//ShowWindow(SW_MAXIMIZE);
-
-	// TODO: Add extra initialization here
-
 	return TRUE;  // return TRUE  unless you set the focus to a control
 }
 
