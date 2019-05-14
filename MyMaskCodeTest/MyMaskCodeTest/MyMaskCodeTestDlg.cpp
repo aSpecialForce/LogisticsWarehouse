@@ -19,6 +19,7 @@ class CAboutDlg : public CDialogEx
 {
 public:
 	CAboutDlg();
+	  
 
 // Dialog Data
 	enum { IDD = IDD_ABOUTBOX };
