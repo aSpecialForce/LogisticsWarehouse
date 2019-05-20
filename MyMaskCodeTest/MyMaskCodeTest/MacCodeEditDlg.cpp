@@ -12,6 +12,7 @@
 
 IMPLEMENT_DYNAMIC(CMacCodeEditDlg, CDialogEx)
 
+
 CMacCodeEditDlg::CMacCodeEditDlg(CWnd* pParent /*=NULL*/)
 	: CDialogEx(CMacCodeEditDlg::IDD, pParent)
 {
